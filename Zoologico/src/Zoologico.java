@@ -24,7 +24,7 @@ public class Zoologico {
 
     public static void main(String[] args) {
         // Ejemplo de uso
-        Zoologico zoo = new Zoologico("Zoológico Central", "Avenida Safari 123");
+        Zoologico zoo = new Zoologico("Zoológico Amazonas", "Avenida Juan León Mera");
 
         Veterinario vet = new Veterinario("Carlos", "Pérez", 45, 1.75, "O+", new java.util.Date(), "VET001", 8);
         Cuidador cuidador = new Cuidador("Luis", "Gómez", 30, 1.80, "A-", new java.util.Date(), "CUID001", 6, "Mamíferos");
